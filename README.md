@@ -32,7 +32,8 @@ installiert und somit kann das Projekt lokal getestet werden:
 node server.js
 ```
 
-Danach sollte die Website lokal unter http://localhost:3000/public/ verfügbar sein.
+Danach sollte die Website lokal unter
+[http://localhost:3000/public/](http://localhost:3000/public/) verfügbar sein.
 
 ## Veröffentlichung
 
