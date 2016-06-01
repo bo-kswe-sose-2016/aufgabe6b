@@ -1,0 +1,22 @@
+{
+  "name": "aufgabe6b",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "matthesrieke <m.rieke@52north.org>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "leaflet-map": "^1.2.0",
+    "jquery": "^2.2.4"
+  }
+}
